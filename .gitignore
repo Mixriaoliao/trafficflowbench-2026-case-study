@@ -1,0 +1,16 @@
+# This repository contains only public-facing documentation.
+*.zip
+*.csv
+*.parquet
+*.pkl
+*.joblib
+*.npy
+*.npz
+*.onnx
+.env
+*.key
+data/
+models/
+submissions/
+__pycache__/
+
